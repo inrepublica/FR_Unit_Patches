@@ -1,0 +1,12 @@
+name = "France Unit Patches";
+picture = "logo_FR_Unit_Patches.paa";
+actionName = "GitHub";
+action = "https://github.com";
+description = "Various Uniform patches for French unit.";
+logo = "logo_FR_Unit_Patches.paa";
+logoOver = "logo_FR_Unit_Patches.paa";
+tooltip = "France Unit Patches";
+tooltipOwned = "France Unit Patches";
+overview = "France Unit Patches";
+author = "Inrepublica";
+overviewPicture = "logo_FR_Unit_Patches.paa";
