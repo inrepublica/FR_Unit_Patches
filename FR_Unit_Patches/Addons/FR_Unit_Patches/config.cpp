@@ -9,6 +9,41 @@ class CfgPatches {
  };
  
  class CfgUnitInsignia {
+	class commando_marine_hubert {
+		displayName = "Commando Marine Hubert";
+		texture = "\FR_Unit_Patches\data\commando_marine_hubert.paa";
+		author = "Inrepublica";
+	};
+	class commando_marine_jaubert {
+		displayName = "Commando Marine Jaubert";
+		texture = "\FR_Unit_Patches\data\commando_marine_jaubert.paa";
+		author = "Inrepublica";
+	};
+	class commando_marine_kieffer {
+		displayName = "Commando Marine Kieffer";
+		texture = "\FR_Unit_Patches\data\commando_marine_kieffer.paa";
+		author = "Inrepublica";
+	};
+	class commando_marine_montfort {
+		displayName = "Commando Marine de Montfort";
+		texture = "\FR_Unit_Patches\data\commando_marine_montfort.paa";
+		author = "Inrepublica";
+	};
+	class commando_marine_penfentenyo {
+		displayName = "Commando Marine de Penfentenyo";
+		texture = "\FR_Unit_Patches\data\commando_marine_penfentenyo.paa";
+		author = "Inrepublica";
+	};
+	class commando_marine_ponchardier {
+		displayName = "Commando Marine de Ponchardier";
+		texture = "\FR_Unit_Patches\data\commando_marine_ponchardier.paa";
+		author = "Inrepublica";
+	};
+	class commando_marine_trepel {
+		displayName = "Commando Marine Trepel";
+		texture = "\FR_Unit_Patches\data\commando_marine_trepel.paa";
+		author = "Inrepublica";
+	};
 	class legion_legio_patria_nostra {
 		displayName = "LEGION Legio Patria Nostra";
 		texture = "\FR_Unit_Patches\data\legion_legio_patria_nostra.paa";
@@ -67,6 +102,16 @@ class CfgPatches {
 	class france_desert {
 		displayName = "FRANCE désert";
 		texture = "\FR_Unit_Patches\data\france_desert.paa";
+		author = "Inrepublica";
+	};
+	class commandement_operations_speciales_or {
+		displayName = "Commandement des Opérations Spéciales Or";
+		texture = "\FR_Unit_Patches\data\commandement_operations_speciales_or.paa";
+		author = "Inrepublica";
+	};
+	class commandement_operations_speciales_bv {
+		displayName = "Commandement des Opérations Spéciales basse visibilité";
+		texture = "\FR_Unit_Patches\data\commandement_operations_speciales_bv.paa";
 		author = "Inrepublica";
 	};
  };
