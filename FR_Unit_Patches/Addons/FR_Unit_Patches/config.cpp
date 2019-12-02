@@ -9,6 +9,36 @@ class CfgPatches {
  };
  
  class CfgUnitInsignia {
+	class brigade_franco_allemande {
+		displayName = "Brigade Franco-allemande";
+		texture = "\FR_Unit_Patches\data\brigade_franco_allemande.paa";
+		author = "Inrepublica";
+	};
+	class marine_nationale {
+		displayName = "Marine Nationale";
+		texture = "\FR_Unit_Patches\data\marine_nationale.paa";
+		author = "Inrepublica";
+	};
+	class troupes_marine_bv {
+		displayName = "Troupes de marine basse visibilité";
+		texture = "\FR_Unit_Patches\data\troupes_marine_bv.paa";
+		author = "Inrepublica";
+	};
+	class troupes_marine_couleur {
+		displayName = "Troupes de marine couleur";
+		texture = "\FR_Unit_Patches\data\troupes_marine_couleur.paa";
+		author = "Inrepublica";
+	};
+	class troupes_marine_losange_bras_rang {
+		displayName = "Troupes de marine losange de bras homme du rang";
+		texture = "\FR_Unit_Patches\data\troupes_marine_losange_bras_rang.paa";
+		author = "Inrepublica";
+	};
+	class troupes_marine_losange_bras_ssofficier {
+		displayName = "Troupes de marine losange de bras sous-officier";
+		texture = "\FR_Unit_Patches\data\troupes_marine_losange_bras_ssofficier.paa";
+		author = "Inrepublica";
+	};
 	class commando_marine_hubert {
 		displayName = "Commando Marine Hubert";
 		texture = "\FR_Unit_Patches\data\commando_marine_hubert.paa";
