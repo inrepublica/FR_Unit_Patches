@@ -149,14 +149,9 @@ class CfgPatches {
 		texture = "\FR_Unit_Patches\data\13_RDP.paa";
 		author = "Inrepublica";
 	};
-	class 13_RDP {
-		displayName = "13e Régiment de Dragons Parachutistes";
-		texture = "\FR_Unit_Patches\data\13_RDP.paa";
-		author = "Inrepublica";
-	};
-	class 1_regiment_parachutiste__infanterie_marine {
+	class 1_regiment_parachutiste_infanterie_marine {
 		displayName = "1er régiment de parachutistes d'infanterie de marine";
-		texture = "\FR_Unit_Patches\data\1_regiment_parachutiste__infanterie_marine.paa";
+		texture = "\FR_Unit_Patches\data\1_regiment_parachutiste_infanterie_marine.paa";
 		author = "Inrepublica";
 	};
 	class 4_RHFS_couleur {
@@ -164,7 +159,7 @@ class CfgPatches {
 		texture = "\FR_Unit_Patches\data\4_RHFS_couleur.paa";
 		author = "Inrepublica";
 	};
-	class 4_RHFS_couleur {
+	class 4_RHFS_gomme {
 		displayName = "4e Régiment d'Hélicoptères des Forces Spéciales - Gomme";
 		texture = "\FR_Unit_Patches\data\4_RHFS_gomme.paa";
 		author = "Inrepublica";

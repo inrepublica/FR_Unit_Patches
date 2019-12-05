@@ -4,3 +4,6 @@
 
 ## Description:
 Various uniform patches for French Units.
+
+## Steamworkshop
+You can donwload the mod with steamworkshop:
