@@ -144,4 +144,69 @@ class CfgPatches {
 		texture = "\FR_Unit_Patches\data\commandement_operations_speciales_bv.paa";
 		author = "Inrepublica";
 	};
+	class 13_RDP {
+		displayName = "13e Régiment de Dragons Parachutistes";
+		texture = "\FR_Unit_Patches\data\13_RDP.paa";
+		author = "Inrepublica";
+	};
+	class 13_RDP {
+		displayName = "13e Régiment de Dragons Parachutistes";
+		texture = "\FR_Unit_Patches\data\13_RDP.paa";
+		author = "Inrepublica";
+	};
+	class 1_regiment_parachutiste__infanterie_marine {
+		displayName = "1er régiment de parachutistes d'infanterie de marine";
+		texture = "\FR_Unit_Patches\data\1_regiment_parachutiste__infanterie_marine.paa";
+		author = "Inrepublica";
+	};
+	class 4_RHFS_couleur {
+		displayName = "4e Régiment d'Hélicoptères des Forces Spéciales - Couleur";
+		texture = "\FR_Unit_Patches\data\4_RHFS_couleur.paa";
+		author = "Inrepublica";
+	};
+	class 4_RHFS_couleur {
+		displayName = "4e Régiment d'Hélicoptères des Forces Spéciales - Gomme";
+		texture = "\FR_Unit_Patches\data\4_RHFS_gomme.paa";
+		author = "Inrepublica";
+	};
+	class 4_RHFS_bv {
+		displayName = "4e Régiment d'Hélicoptères des Forces Spéciales - Basse visibilité";
+		texture = "\FR_Unit_Patches\data\4_RHFS_bv.paa";
+		author = "Inrepublica";
+	};
+	class groupe_sanguin_a_pos {
+		displayName = "Groupe Sanguin A +";
+		texture = "\FR_Unit_Patches\data\groupe_sanguin_a_pos.paa";
+		author = "Inrepublica";
+	};
+	class groupe_sanguin_ab_neg {
+		displayName = "Groupe Sanguin AB -";
+		texture = "\FR_Unit_Patches\data\groupe_sanguin_ab_neg.paa";
+		author = "Inrepublica";
+	};
+	class groupe_sanguin_ab_pos {
+		displayName = "Groupe Sanguin AB +";
+		texture = "\FR_Unit_Patches\data\groupe_sanguin_ab_pos.paa";
+		author = "Inrepublica";
+	};
+	class groupe_sanguin_b_neg {
+		displayName = "Groupe Sanguin B -";
+		texture = "\FR_Unit_Patches\data\groupe_sanguin_b_neg.paa";
+		author = "Inrepublica";
+	};
+	class groupe_sanguin_b_pos {
+		displayName = "Groupe Sanguin B +";
+		texture = "\FR_Unit_Patches\data\groupe_sanguin_b_pos.paa";
+		author = "Inrepublica";
+	};
+	class groupe_sanguin_o_neg {
+		displayName = "Groupe Sanguin O -";
+		texture = "\FR_Unit_Patches\data\groupe_sanguin_o_neg.paa";
+		author = "Inrepublica";
+	};
+	class groupe_sanguin_o_pos {
+		displayName = "Groupe Sanguin O +";
+		texture = "\FR_Unit_Patches\data\groupe_sanguin_o_pos.paa";
+		author = "Inrepublica";
+	};
  };
