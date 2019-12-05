@@ -6,4 +6,4 @@
 Various uniform patches for French Units.
 
 ## Steamworkshop
-You can donwload the mod with steamworkshop:
+You can donwload the mod with [Steamworkshop](https://steamcommunity.com/sharedfiles/filedetails/?id=1928043004).
